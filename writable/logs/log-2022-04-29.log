@@ -1,0 +1,1417 @@
+CRITICAL - 2022-04-29 19:48:02 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:48:15 --> Undefined offset: 3
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'D:\\xampp\\htdocs...', 136, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:50:39 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:50:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:50:58 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:51:13 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:51:38 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:51:44 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:58:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:58:49 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:00:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:00:59 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:04 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:10 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:14 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:31 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:36 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:01:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:02:09 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:02:14 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:02:20 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:08:34 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:08:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:08:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:18:30 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:18:36 --> Argument 1 passed to CodeIgniter\Validation\Rules::is_unique() must be of the type string or null, array given, called in D:\xampp\htdocs\simstidar\system\Validation\Validation.php on line 292
+#0 D:\xampp\htdocs\simstidar\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique(Array, 'anggota_kelas.i...', Array, NULL)
+#1 D:\xampp\htdocs\simstidar\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('nomhs', 'Mahasiswa', Array, Array, Array)
+#2 D:\xampp\htdocs\simstidar\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(135): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#5 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#6 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-29 20:19:56 --> Argument 1 passed to CodeIgniter\Validation\Rules::is_unique() must be of the type string or null, array given, called in D:\xampp\htdocs\simstidar\system\Validation\Validation.php on line 292
+#0 D:\xampp\htdocs\simstidar\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique(Array, 'anggota_kelas.i...', Array, NULL)
+#1 D:\xampp\htdocs\simstidar\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('nomhs', 'id_mhs', Array, Array, Array)
+#2 D:\xampp\htdocs\simstidar\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(135): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#5 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#6 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-29 20:20:30 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:21:27 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:21:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:21:39 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:24:22 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:24:29 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 133, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(133): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 20:24:37 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:26:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:26:28 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:26:38 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:27:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:28:03 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:28:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:29:28 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:30:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:30:28 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:31:06 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:33:20 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:34:29 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 133, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(133): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 20:34:31 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:39:09 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:40:32 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:41:02 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 20:41:19 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:04:03 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:04:09 --> Too few arguments to function App\Controllers\kelas::add_anggota_kelas(), 1 passed in D:\xampp\htdocs\simstidar\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-29 21:06:32 --> Undefined index: id_mhs
+#0 D:\xampp\htdocs\simstidar\app\Views\admin\anggota_kelas.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 124, Array)
+#1 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#4 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#5 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#8 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#9 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#12 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#14 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#15 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}
+CRITICAL - 2022-04-29 21:06:32 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:06:33 --> Undefined index: id_mhs
+#0 D:\xampp\htdocs\simstidar\app\Views\admin\anggota_kelas.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 124, Array)
+#1 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#4 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#5 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#8 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#9 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#12 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#14 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#15 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}
+CRITICAL - 2022-04-29 21:06:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:06:34 --> Undefined index: id_mhs
+#0 D:\xampp\htdocs\simstidar\app\Views\admin\anggota_kelas.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 124, Array)
+#1 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#4 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#5 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#8 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#9 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#12 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#14 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#15 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}
+CRITICAL - 2022-04-29 21:06:34 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:11:22 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:12:57 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:13:28 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:14:21 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:15:15 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:17:25 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:17:36 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 133, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(133): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->add_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 22:19:47 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#2 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#3 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#7 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#11 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-04-29 22:19:47 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:19:49 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#2 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#3 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#7 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#11 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-04-29 22:19:49 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:19:51 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#2 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#3 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#7 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#11 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-04-29 22:19:51 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:20:15 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#2 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#3 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#7 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#11 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-04-29 22:20:15 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:20:18 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/anggota_k...', Array, true)
+#2 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/anggota_k...')
+#3 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#7 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(103): view('layout/wrapper', Array)
+#11 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('3')
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-04-29 22:20:18 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:20:51 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:21:49 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:23:40 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:23:42 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:23:43 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:23:43 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:24:26 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::is_ajax()
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-29 22:24:46 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::Ajax()
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-29 22:25:31 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:27:05 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:27:55 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:29:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:29:17 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:29:22 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:32:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:34:13 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:34:49 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:35:40 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:36:59 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:37:01 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:37:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:40:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:40:38 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:41:44 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:41:47 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:49:07 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:49:09 --> Undefined property: App\Controllers\kelas::$input
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 149, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:50:58 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:51:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:51:01 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:51:27 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:51:34 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:53:30 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:53:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:53:36 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:53:44 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:53:46 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:54:10 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:54:20 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:54:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:54:56 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 22:59:56 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:00:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:00:05 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:00:07 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:00:56 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 160, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:02:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:02:09 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:02:16 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:12:43 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:13:44 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:13:47 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:13:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:14:11 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:14:13 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:15:39 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:15:41 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:15:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:15:56 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:16:01 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:29:53 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:29:56 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:30:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:32:21 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:32:30 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:32:37 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:32:52 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:33:37 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:34:24 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:34:31 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:34:37 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:39:13 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:39:18 --> Too few arguments to function App\Models\ModelKelas::delete_semua_anggotakelas(), 1 passed in D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php on line 155 and exactly 2 expected
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(155): App\Models\ModelKelas->delete_semua_anggotakelas(Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:40:48 --> Undefined variable: i
+#0 D:\xampp\htdocs\simstidar\app\Models\ModelKelas.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 88, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(155): App\Models\ModelKelas->delete_semua_anggotakelas(Array)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:41:29 --> Undefined variable: id_kelas
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(159): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:04 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:07 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:12 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:38 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:43 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:43:50 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:44:51 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:46:40 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:46:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:46:45 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:46:48 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:47:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:47:03 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:47:06 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:48:33 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:48:44 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:48:49 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:49:02 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:49:07 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:50:20 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:50:28 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('3')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:50:36 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:50:40 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:54:38 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:54:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:54:54 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:00 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:06 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:14 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:31 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:41 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:48 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:55 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:55:59 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('7')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:59:09 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('7')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-29 23:59:12 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 96, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 23:59:17 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'D:\\xampp\\htdocs...', 150, Array)
+#1 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(150): count(NULL)
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->hapus_semua_anggota_kelas('7')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

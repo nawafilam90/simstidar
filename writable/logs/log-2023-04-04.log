@@ -1,0 +1,9 @@
+CRITICAL - 2023-04-04 13:27:45 --> Undefined variable: totalTime
+#0 D:\xampp\htdocs\simstidar\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 40, Array)
+#1 D:\xampp\htdocs\simstidar\system\Debug\Toolbar.php(501): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\Debug\Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 D:\xampp\htdocs\simstidar\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 D:\xampp\htdocs\simstidar\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#6 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

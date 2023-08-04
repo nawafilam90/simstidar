@@ -1,0 +1,17 @@
+CRITICAL - 2023-04-27 21:19:47 --> syntax error, unexpected '<'
+#0 /home/mediace1/sim.stidar.ac.id/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/mediace1/sim.stidar.ac.id/system/Common.php(1089): CodeIgniter\View\View->render('admin/mahasiswa', Array, true)
+#2 /home/mediace1/sim.stidar.ac.id/app/Views/layout/content.php(3): view('admin/mahasiswa')
+#3 /home/mediace1/sim.stidar.ac.id/system/View/View.php(210): include('/home/mediace1/...')
+#4 /home/mediace1/sim.stidar.ac.id/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/mediace1/sim.stidar.ac.id/system/Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#6 /home/mediace1/sim.stidar.ac.id/app/Views/layout/wrapper.php(4): view('layout/content')
+#7 /home/mediace1/sim.stidar.ac.id/system/View/View.php(210): include('/home/mediace1/...')
+#8 /home/mediace1/sim.stidar.ac.id/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#9 /home/mediace1/sim.stidar.ac.id/system/Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#10 /home/mediace1/sim.stidar.ac.id/app/Controllers/Mahasiswa.php(22): view('layout/wrapper', Array)
+#11 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Mahasiswa->index()
+#12 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#13 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}

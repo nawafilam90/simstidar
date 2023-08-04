@@ -1,0 +1,35 @@
+CRITICAL - 2023-07-01 09:55:44 --> Trying to access array offset on value of type null
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Nilai.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/home/mediace1/...', 48, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Nilai->nilai_kelas('<https:', 'sim.stidar.ac.i...', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nilai))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-07-01 10:01:07 --> Trying to access array offset on value of type null
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Nilai.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/home/mediace1/...', 48, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Nilai->nilai_kelas('<https:', 'sim.stidar.ac.i...', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nilai))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-07-01 10:01:56 --> Trying to access array offset on value of type null
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Presensi.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/home/mediace1/...', 65, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<https:', 'sim.stidar.ac.i...', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-07-01 10:02:18 --> Trying to access array offset on value of type null
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Presensi.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/home/mediace1/...', 65, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<https:', 'sim.stidar.ac.i...', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-07-01 10:02:56 --> Trying to access array offset on value of type null
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Presensi.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/home/mediace1/...', 65, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<https:', 'sim.stidar.ac.i...', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

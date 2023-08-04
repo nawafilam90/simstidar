@@ -1,0 +1,388 @@
+CRITICAL - 2022-05-13 20:32:47 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:33:48 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:34:58 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:35:20 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:35:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:39:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:42:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:43:31 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:46:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:46:43 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:47:02 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Views\admin\detail_jadwal.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 41, Array)
+#1 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/detail_ja...', Array, true)
+#4 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/detail_ja...')
+#5 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#8 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#9 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#12 D:\xampp\htdocs\simstidar\app\Controllers\Jadwal.php(52): view('layout/wrapper', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Jadwal->detail_jadwal('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#14 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jadwal))
+#15 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}
+CRITICAL - 2022-05-13 20:47:25 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Views\admin\detail_jadwal.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 41, Array)
+#1 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('admin/detail_ja...', Array, true)
+#4 D:\xampp\htdocs\simstidar\app\Views\layout\content.php(3): view('admin/detail_ja...')
+#5 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/content', Array, true)
+#8 D:\xampp\htdocs\simstidar\app\Views\layout\wrapper.php(4): view('layout/content')
+#9 D:\xampp\htdocs\simstidar\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\simstidar\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 D:\xampp\htdocs\simstidar\system\Common.php(1089): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#12 D:\xampp\htdocs\simstidar\app\Controllers\Jadwal.php(52): view('layout/wrapper', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Jadwal->detail_jadwal('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#14 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jadwal))
+#15 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}
+CRITICAL - 2022-05-13 20:47:48 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:49:48 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:50:35 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:51:37 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:51:44 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:52:14 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 20:53:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:14:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:15:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:16:32 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:18:42 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:21:27 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:23:09 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:26:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:26:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:28:27 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:28:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:29:18 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:29:39 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:30:36 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:53:28 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:56:15 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 22:58:02 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:02:52 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:03:59 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:05:17 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:06:36 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:06:47 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:09:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:10:24 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:11:56 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:12:54 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:13:50 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:15:08 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:16:07 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:17:57 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:19:26 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:22:05 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:24:54 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 23:27:40 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

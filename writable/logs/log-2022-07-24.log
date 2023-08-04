@@ -1,0 +1,7 @@
+CRITICAL - 2022-07-24 11:54:11 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Nilai.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 48, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Nilai->nilai_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nilai))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

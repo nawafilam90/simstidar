@@ -1,0 +1,179 @@
+CRITICAL - 2022-07-08 09:37:10 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:38:53 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:38:55 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:39:01 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:40:04 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:40:17 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:41:39 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:41:42 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:41:45 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:44:27 --> {0} filter must have a matching alias defined.
+#0 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('Filter_auth')
+#1 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 D:\xampp\htdocs\simstidar\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-08 09:57:43 --> Class 'App\Filters\Filter_dosen' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home', 'before')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-07-08 09:58:27 --> Class 'App\Filters\Filter_dosen' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-07-08 09:58:31 --> Class 'App\Filters\Filter_dosen' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-07-08 09:59:44 --> syntax error, unexpected ';', expecting ']'
+#0 D:\xampp\htdocs\simstidar\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\simstidar\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+#3 [internal function]: spl_autoload_call('Config\\Filters')
+#4 D:\xampp\htdocs\simstidar\system\Config\Factories.php(136): class_exists('Config\\Filters')
+#5 D:\xampp\htdocs\simstidar\system\Config\Factories.php(106): CodeIgniter\Config\Factories::locateClass(Array, 'Filters')
+#6 D:\xampp\htdocs\simstidar\system\Common.php(198): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#7 D:\xampp\htdocs\simstidar\system\Config\Services.php(258): config('Filters')
+#8 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(248): CodeIgniter\Config\Services::filters(NULL, false)
+#9 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('filters', Array)
+#10 D:\xampp\htdocs\simstidar\system\Config\Services.php(255): CodeIgniter\Config\BaseService::getSharedInstance('filters', NULL)
+#11 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(248): CodeIgniter\Config\Services::filters()
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(373): CodeIgniter\Config\BaseService::__callStatic('filters', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-07-08 09:59:46 --> syntax error, unexpected ';', expecting ']'
+#0 D:\xampp\htdocs\simstidar\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\simstidar\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+#3 [internal function]: spl_autoload_call('Config\\Filters')
+#4 D:\xampp\htdocs\simstidar\system\Config\Factories.php(136): class_exists('Config\\Filters')
+#5 D:\xampp\htdocs\simstidar\system\Config\Factories.php(106): CodeIgniter\Config\Factories::locateClass(Array, 'Filters')
+#6 D:\xampp\htdocs\simstidar\system\Common.php(198): CodeIgniter\Config\Factories::__callStatic('config', Array)
+#7 D:\xampp\htdocs\simstidar\system\Config\Services.php(258): config('Filters')
+#8 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(248): CodeIgniter\Config\Services::filters(NULL, false)
+#9 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('filters', Array)
+#10 D:\xampp\htdocs\simstidar\system\Config\Services.php(255): CodeIgniter\Config\BaseService::getSharedInstance('filters', NULL)
+#11 D:\xampp\htdocs\simstidar\system\Config\BaseService.php(248): CodeIgniter\Config\Services::filters()
+#12 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(373): CodeIgniter\Config\BaseService::__callStatic('filters', Array)
+#13 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2022-07-08 10:31:51 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 65, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-08 10:32:45 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Presensi.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 65, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Presensi->presensi_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Presensi))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-08 11:32:55 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-08 11:33:26 --> Trying to access array offset on value of type null
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Kelas.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\kelas->anggota_kelas('<http:', 'localhost', 'simstidar', 'public', 'template', 'plugins', 'icheck-bootstra...', 'icheck-bootstra...')
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kelas))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-08 23:14:17 --> Undefined variable: cek
+#0 D:\xampp\htdocs\simstidar\app\Controllers\Auth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 101, Array)
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(832): App\Controllers\Auth->login()
+#2 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-08 23:32:45 --> Class 'App\Filters\Filter_admin' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dsn', 'before')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-07-08 23:34:23 --> Class 'App\Filters\Filter_admin' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-07-08 23:34:46 --> Class 'App\Filters\Filter_admin' not found
+#0 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home', 'before')
+#1 D:\xampp\htdocs\simstidar\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\simstidar\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}

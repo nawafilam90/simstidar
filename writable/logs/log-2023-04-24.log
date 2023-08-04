@@ -1,0 +1,14 @@
+CRITICAL - 2023-04-24 03:26:19 --> A non-numeric value encountered
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Nilai.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/mediace1/...', 68, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Nilai->input_nilai('17')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nilai))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-24 03:26:33 --> A non-numeric value encountered
+#0 /home/mediace1/sim.stidar.ac.id/app/Controllers/Nilai.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/mediace1/...', 68, Array)
+#1 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(832): App\Controllers\Nilai->input_nilai('17')
+#2 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nilai))
+#3 /home/mediace1/sim.stidar.ac.id/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/mediace1/sim.stidar.ac.id/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
