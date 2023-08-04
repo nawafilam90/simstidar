@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Hai halo
+    <h1>Hai halo semuanya</h1>
 </body>
 </html>
