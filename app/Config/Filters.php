@@ -125,6 +125,7 @@ class Filters extends BaseConfig
                 'nilaimhs', 'nilaimhs/*',
                 'mahasiswa/*',
                 'user/*',
+                'khs', 'khs/*',
 
 
             ]],

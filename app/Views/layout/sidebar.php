@@ -238,6 +238,12 @@
             </ul>
             <ul class="nav nav-treeview">
               <li class="nav-item">
+                <a href="<?= base_url('Khs')?>" class="nav-link"><i class="nav-icon fas fa-book-open text-teal"></i>
+                <p>KHS</p></a>
+              </li>
+            </ul>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
                 <?php
                     $db = \Config\Database::connect();
                     $user = $db->table('user')

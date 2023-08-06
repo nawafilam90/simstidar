@@ -11,7 +11,7 @@ use App\Models\ModelMahasiswa;
 use App\Models\ModelNilai;
 
 
-class Nilaimhs extends BaseController
+class Khs extends BaseController
 {
     public function __construct()
     {
@@ -26,15 +26,14 @@ class Nilaimhs extends BaseController
         
     }
     
-    public function index()
-    {
+    public function index(){
         $mhs = $this->ModelNilai->datamahasiswa();
         $data= [
-        'title'     => 'Nilai Akademik',
-        'ta_aktif'  => $this->ModelTA->ta_aktif(),
-        'nilai'     => $this->ModelNilai->allDatamhs($mhs['id_mhs']),
-        'mhs'       => $mhs,
-        'isi'       => 'mhs/nilai_mhs'
+            'title'     => 'KHS',
+            'ta_aktif'  => $this->ModelTA->ta_aktif(),
+            'nilai'     => $this->ModelNilai->khs($mhs['id_mhs']),
+            'mhs'       => $mhs,
+            'isi'       =>'mhs/khs'
         ];
         return view('layout/wrapper', $data);
 

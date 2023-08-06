@@ -8,7 +8,7 @@
             <h1 
             class="m-0">
             <?= $title ?>
-            <small> : <?= $ta_aktif['ta']?>-<?= $ta_aktif['semester']?>hoho</small>
+            <small> : <?= $ta_aktif['ta']?>-<?= $ta_aktif['semester']?></small>
             </h1>
           </div><!-- /.col -->
           <div class="col-sm-4">

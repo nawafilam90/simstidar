@@ -54,15 +54,16 @@ class ModelNilai extends Model
     ->get()->getResultArray(); 
   }
 
-  public function khs(){
+  public function khs($id_mhs){
     return $this->db->table('anggota_kelas')
     ->join('mahasiswa','mahasiswa.id_mhs = anggota_kelas.id_mhs', 'left')
-    ->join('dosen', 'dosen.id_dosen = anggota_kelas.id_dosen', 'left')
     ->join('kelas', 'kelas.id_kelas = anggota_kelas.id_kelas', 'left')
-    ->join('matkul','matkul.id_matkul = anggota_kelas.id_matkul', 'left')
-    ->join('prodi', 'prodi.id_prodi = anggota_kelas.id_prodi', 'left')
-    ->join('th_akademik', 'th_akademik.id_ta = anggota_kelas.id_ta', 'left')
-    ->where('anggota_kelas.id_mhs', session()->get('username'))
+    ->join('dosen', 'dosen.id_dosen = kelas.id_dosen', 'left')
+    ->join('matkul','matkul.id_matkul = kelas.id_matkul', 'left')
+    ->join('prodi', 'prodi.id_prodi = kelas.id_prodi', 'left')
+    ->join('th_akademik', 'th_akademik.id_ta = kelas.id_ta', 'left')
+    ->where('anggota_kelas.id_mhs', $id_mhs)
+    ->get()->getResultArray();
   }
    
 }
